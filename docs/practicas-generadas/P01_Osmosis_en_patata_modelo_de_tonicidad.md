@@ -64,27 +64,27 @@ Prepara una disolución de NaCl al 5 % (m/v) → compara porciones equivalentes 
 
 ### Procedimiento específico
 
-Esta actividad es un modelo vegetal no clínico. El procedimiento académico de referencia es [UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)](https://www.utsouthwestern.edu/media/other-activities/251270osmodemo.pdf), que describe cilindros de patata de 3 cm, tres por recipiente y 24 h de inmersión. Como contexto docente español, la [Olimpiada Española de Biología (PDF)](https://olimpiadadebiologia.edu.es/wp-content/uploads/2014/04/Practica_Osmosis_Valencia_2010_11328b2363506756cb3847ee133cfcd5.pdf) emplea NaCl y agua destilada con tejido vegetal distinto. Esta adaptación de dos medios y NaCl al 5 % es un protocolo didáctico, no un método analítico validado.
+Esta actividad es un modelo vegetal no clínico. El procedimiento académico de referencia es [UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)](https://www.utsouthwestern.edu/media/other-activities/251270osmodemo.pdf), que describe cilindros de patata, tres por recipiente y 24 h de inmersión; aquí se adapta la geometría a porciones prismáticas rectangulares de 3 × 3 × 0,8 cm. Como contexto docente español, la [Olimpiada Española de Biología (PDF)](https://olimpiadadebiologia.edu.es/wp-content/uploads/2014/04/Practica_Osmosis_Valencia_2010_11328b2363506756cb3847ee133cfcd5.pdf) emplea NaCl y agua destilada con tejido vegetal distinto. Esta adaptación de dos medios, geometría y NaCl al 5 % es un protocolo didáctico, no un método analítico validado.
 
-**Material e instrumental:** patata cruda; NaCl; agua destilada; balanza; probeta de 100 mL; dos vasos de precipitados o recipientes transparentes con tapa (capacidad mínima 150 mL); sacabocados cilíndrico de diámetro aproximado 8 mm; cuchillo y tabla de corte; regla; pinzas; papel absorbente; etiquetas y rotulador. Usa cuchillo y sacabocados bajo supervisión docente.
+**Material e instrumental:** patata cruda; NaCl; agua destilada; balanza; probeta de 100 mL; dos vasos de precipitados o recipientes transparentes con tapa (capacidad mínima 150 mL); bisturí o cuchilla similar; tabla de corte; regla; pinzas; papel absorbente; etiquetas y rotulador. Usa el bisturí o la cuchilla únicamente bajo supervisión docente y con la protección indicada por el centro.
 
-1. Ponte la protección indicada por el centro y reúne patata, NaCl, agua destilada, balanza, probeta, dos recipientes, sacabocados, cuchillo, regla, pinzas, etiquetas y papel absorbente.
+1. Ponte la protección indicada por el centro y reúne patata, NaCl, agua destilada, balanza, probeta, dos recipientes, bisturí o cuchilla similar, tabla de corte, regla, pinzas, etiquetas y papel absorbente.
 2. Calcula 5 g de NaCl para 100 mL de disolución al 5 % (m/v). Pesa la sal en una balanza y registra la masa utilizada.
 3. Disuelve la sal en unos 80 mL de agua destilada; tras disolverla, completa con agua destilada hasta un volumen final de 100 mL y mezcla.
 4. Rotula un recipiente «NaCl 5 % — hipertónico» y el otro «agua destilada — hipotónico». Mide 100 mL de cada medio y viértelos en su recipiente correspondiente.
-5. Lava y seca la patata. Con sacabocados, extrae seis cilindros de una zona sin piel; recórtalos con cuchillo y regla a 3,0 cm de longitud y diámetro uniforme (aprox. 8 mm).
-6. Forma dos grupos de tres cilindros equivalentes. Sécalos superficialmente con el mismo número de contactos de papel, sin apretar, y pesa cada grupo junto; registra la masa inicial de cada condición.
-7. Introduce un grupo completo en cada recipiente con pinzas. Comprueba que los tres cilindros de cada recipiente quedan cubiertos por su medio; coloca las tapas y registra la hora de inicio.
+5. Lava y seca la patata. Con bisturí o cuchilla y regla, corta seis porciones sin piel en forma de prisma rectangular, cada una de 3 × 3 × 0,8 cm.
+6. Forma dos grupos de tres porciones de dimensiones equivalentes. Sécalas con el mismo número de contactos de papel, sin apretar, y pesa cada grupo junto; registra la masa inicial de cada condición.
+7. Introduce un grupo completo en cada recipiente con pinzas. Comprueba que las tres porciones de cada recipiente quedan cubiertas por su medio; coloca las tapas y registra la hora de inicio.
 8. Mantén ambos recipientes durante 24 h en el mismo lugar, a temperatura ambiente y sin exposición directa al sol. Registra la hora de retirada; no intercambies ni añadas medios.
-9. Retira los cilindros de cada recipiente con pinzas, mantén separados los grupos y sécalos superficialmente con el mismo criterio aplicado al inicio.
-10. Pesa por separado los tres cilindros de cada condición juntos en la misma balanza; registra las masas finales y cualquier pérdida de muestra o desviación.
+9. Retira las porciones de cada recipiente con pinzas, mantén separados los grupos y sécalas superficialmente con el mismo criterio aplicado al inicio.
+10. Pesa juntas las tres porciones de cada condición en la misma balanza; registra las masas finales y cualquier pérdida de muestra o desviación.
 11. Calcula para cada condición: variación porcentual = [(masa final − masa inicial) / masa inicial] × 100. Conserva unidades, signo y cifras significativas.
 12. Compara los cambios de masa y las observaciones de aspecto; indica si concuerdan con la hipótesis y limita la conclusión a este modelo vegetal.
 13. Desecha los restos vegetales y las disoluciones según las indicaciones docentes; limpia y seca el material reutilizable y registra incidencias.
 
 ### Controles de calidad
 
-- Cilindros del mismo origen, diámetro y longitud; volumen final de disolución y tiempo de inmersión iguales entre condiciones; identificación inequívoca; mismo criterio de secado y pesada; unidades y fórmula visibles; conclusión limitada al modelo.
+- Porciones del mismo origen y dimensiones (3 × 3 × 0,8 cm); volumen final de medio y tiempo de inmersión iguales entre condiciones; identificación inequívoca; mismo criterio de secado y pesada; unidades y fórmula visibles; conclusión limitada al modelo.
 - La fuente y la modalidad de cada imagen, registro o dato quedan identificadas.
 - Los datos simulados no se presentan como resultados de paciente ni como ejecución del alumnado.
 - Las incidencias, resultados no válidos y limitaciones se conservan en el registro.
@@ -93,7 +93,7 @@ Esta actividad es un modelo vegetal no clínico. El procedimiento académico de 
 
 - [Universidad de La Rioja, Observación de la ósmosis en un huevo](https://multimedia.unirioja.es/video/68766a360e6f7743a4054330) (consultado el 29/09/2026). Apoya la explicación de medios hipotónicos e hipertónicos mediante un modelo didáctico distinto.
 - [Olimpiada Española de Biología, práctica sobre intercambios hídricos en tejido vegetal (PDF)](https://olimpiadadebiologia.edu.es/wp-content/uploads/2014/04/Practica_Osmosis_Valencia_2010_11328b2363506756cb3847ee133cfcd5.pdf) (consultado el 29/09/2026). Referencia de contexto para el uso de NaCl y agua destilada en una práctica vegetal; emplea otro tejido y no prescribe este protocolo de patata.
-- [UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)](https://www.utsouthwestern.edu/media/other-activities/251270osmodemo.pdf) (consultado el 29/09/2026). Referencia docente para la geometría de los cilindros, número de réplicas por recipiente y periodo de 24 h; la adaptación de dos medios no constituye PNT local.
+- [UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)](https://www.utsouthwestern.edu/media/other-activities/251270osmodemo.pdf) (consultado el 29/09/2026). Referencia docente para el número de réplicas por recipiente y el periodo de 24 h; su geometría cilíndrica se sustituye aquí por porciones prismáticas de 3 × 3 × 0,8 cm. Esta adaptación no constituye PNT local.
 
 Fecha de consulta de las referencias enlazadas: **29/09/2026**.
 
